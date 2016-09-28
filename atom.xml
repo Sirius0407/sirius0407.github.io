@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-28T08:17:10.104Z</updated>
+  <updated>2016-09-28T14:08:43.647Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/09/28/%E8%B5%B7%E7%82%B9/"/>
     <id>http://yoursite.com/2016/09/28/起点/</id>
     <published>2016-09-28T08:07:27.000Z</published>
-    <updated>2016-09-28T08:17:10.104Z</updated>
+    <updated>2016-09-28T14:08:43.647Z</updated>
     
     <content type="html"><![CDATA[<p>这是这个博客的第一篇文章。<br>这个博客将用来记录我生活中的一些心得体会。<br>它的内容很可能是缺乏组织而又错误百出的。<br>我只期望它的内容是客观真实的。这样，当我在将来的某一天再次翻阅它时，能够得到一些不一样的东西。</p>
 ]]></content>
@@ -32,6 +32,8 @@
     
     </summary>
     
+    
+      <category term="起点" scheme="http://yoursite.com/tags/%E8%B5%B7%E7%82%B9/"/>
     
   </entry>
   
